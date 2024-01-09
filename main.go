@@ -26,6 +26,7 @@ func main() {
 	})
 	if err != nil {
 		fmt.Println("Error creating AWS session:", err)
+		print("check")
 		return
 	}
 
