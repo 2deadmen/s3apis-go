@@ -33,3 +33,4 @@
 
 # Exclude credentials.csv
 credentials.csv
+.gitignore
